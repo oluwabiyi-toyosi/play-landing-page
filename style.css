@@ -1,0 +1,39 @@
+*{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    /* background-color: aqua; */
+ 
+    font-style: normal;
+    font-variation-settings:"slnt" 0;margin:0px 
+}
+
+/* @media screen and (max-width:1400px){   
+          .smallv{
+        background:#FF7F09;
+        flex-direction: column;
+        font-size:20px;
+    }
+} */
+@media screen and (max-width:960){
+    p{
+        color:aqua
+
+    }
+
+}
+p{
+    font-weight: 300;
+    font-size:14px
+}
+h1{
+    font-weight: 500;
+    font-size: 25px;
+
+}
+h4{
+    font-weight: 400;
+    font-size: 18px;}
+ h5   {
+    font-weight: 400;
+    font-size: 18px;
+    }
